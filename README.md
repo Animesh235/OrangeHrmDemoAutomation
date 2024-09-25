@@ -2,15 +2,6 @@
 
 This project automates the login functionality of the **OrangeHRM** application using Selenium WebDriver with TestNG. It contains various test cases to verify different login scenarios, such as valid and invalid credentials, login with missing fields, and more.
 
-## Table of Contents
-- [Overview](#overview)
-- [Technologies Used](#technologies-used)
-- [Test Scenarios](#test-scenarios)
-- [Setup Instructions](#setup-instructions)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Overview
 
 This project is a test automation suite for verifying the login functionality of the OrangeHRM application. It covers various test cases for login and logout scenarios, including:
@@ -49,22 +40,11 @@ The following test cases are included in this project:
 - Chrome/Firefox browser
 - WebDriver for Chrome/Firefox installed
 - An IDE such as IntelliJ IDEA or Eclipse
-- 
-##Folder Structure
-```
+
+
 # OrangeHRM Automation Project
 
 This project automates the login functionality of the **OrangeHRM** application using Selenium WebDriver with TestNG and Page Object Model (POM) design patterns. It also generates reports using ExtentReports.
-
-## Table of Contents
-- [Overview](#overview)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Test Scenarios](#test-scenarios)
-- [Setup Instructions](#setup-instructions)
-- [Running Tests](#running-tests)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
